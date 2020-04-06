@@ -101,7 +101,7 @@ hr {
 }
 
 .skill-row {
-  margin: 100px auto 100px auto;
+  margin: 150px auto 100px auto;
   text-align: left;
   width: 50%;
   line-height: 2;
@@ -117,7 +117,7 @@ hr {
   -webkit-border-radius: 8px;
   -moz-border-radius: 8px;
   border-radius: 8px;
-  color: #FFFFFF;
+  color: #EAF6F6;
   font-family: 'Montserrat', sans-serif;
   font-size: 16px;
   font-weight: 100;
@@ -142,4 +142,8 @@ hr {
   -moz-border-radius: 8px;
   border-radius: 8px;
   text-decoration: none;
+}
+
+.skill-topic-2{
+  clear: left;
 }
